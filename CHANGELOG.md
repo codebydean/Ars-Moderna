@@ -12,3 +12,14 @@ The versioning is *unique* to this project and does **NOT** follow [Semantic Ver
 - Created the folder structure for the **PNG** images.
 - Created the CHANGELOG.md
 - Added a help markdown file to each category of icons. 
+
+## 2023.0.2 - 05/MAY
+
+### Added
+
+- Added a general dark theme category for all categories
+- Added a general light theme category for all categories
+
+### Changed
+
+- Changed the structure of the folder system to THEME > CATEGORY (Eg. light/polygon/icon.png)
