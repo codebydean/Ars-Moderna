@@ -1,5 +1,5 @@
 # Modern Icons Changelog
-All changed to the "Modern Icons" project will be documented here.
+All changes to the "Modern Icons" project will be documented here.
 
 The format is inspired by: [Keep a Changelog](https://keepachangelog.com/)
 
