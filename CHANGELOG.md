@@ -23,3 +23,11 @@ The versioning is *unique* to this project and does **NOT** follow [Semantic Ver
 ### Changed
 
 - Changed the structure of the folder system to THEME > CATEGORY (Eg. light/polygon/icon.png)
+
+## 2023.0.3 - 05/MAY
+
+### Added
+
+- Added a documentation folder
+- Created documentation files for each style of icons
+- Create documentation files for the two themes
