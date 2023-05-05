@@ -5,13 +5,13 @@ The format is inspired by: [Keep a Changelog](https://keepachangelog.com/)
 
 The versioning is *unique* to this project and does **NOT** follow [Semantic Versioning](https://semver.org/).
 
-## 2023.0.1 - 04/MAY
+## 2023.0.3 - 05/MAY
 
 ### Added
 
-- Created the folder structure for the **PNG** images.
-- Created the CHANGELOG.md
-- Added a help markdown file to each category of icons. 
+- Added a documentation folder
+- Created documentation files for each style of icons
+- Create documentation files for the two themes
 
 ## 2023.0.2 - 05/MAY
 
@@ -24,10 +24,10 @@ The versioning is *unique* to this project and does **NOT** follow [Semantic Ver
 
 - Changed the structure of the folder system to THEME > CATEGORY (Eg. light/polygon/icon.png)
 
-## 2023.0.3 - 05/MAY
+## 2023.0.1 - 04/MAY
 
 ### Added
 
-- Added a documentation folder
-- Created documentation files for each style of icons
-- Create documentation files for the two themes
+- Created the folder structure for the **PNG** images.
+- Created the CHANGELOG.md
+- Added a help markdown file to each category of icons. 
