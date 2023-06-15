@@ -1,9 +1,16 @@
 # Modern Icons Changelog
-All changes to the "Modern Icons" project will be documented here.
+All changes to the "Ars Moderna" project will be documented here.
 
 The format is inspired by: [Keep a Changelog](https://keepachangelog.com/)
 
 The versioning is *unique* to this project and does **NOT** follow [Semantic Versioning](https://semver.org/).
+
+## 2023.0.3 - 05/MAY
+
+### Changed
+
+- Changed the repository name from Modern Icons to Ars Moderna
+- Altered all the files to reflect the recent name change
 
 ## 2023.0.3 - 05/MAY
 
