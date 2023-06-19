@@ -17,7 +17,6 @@
 
 * Twitter: [@codebydean](https://twitter.com/codebydean)
 * Github: [@codebydean](https://github.com/codebydean)
-* LinkedIn: [@codebydean](https://linkedin.com/in/codebydean)
 
 ## Show your support
 
