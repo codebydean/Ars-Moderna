@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Ars Moderna is a library that contains vectors ands of icons that you can use for your profile readme or any readme you are willing to write. The library will contain more than 100+ icons that you can use. It will be constantly updated with new icons every second week of every month.
+> Ars Moderna is a library that contains icons in two formats (svg & png). You can use them for your profile readme or any readme you are willing to write. The library will contain more than 100+ icons that you can use. It will be constantly updated with new icons every second week of every month.
 
 ## Author
 
