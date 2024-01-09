@@ -5,6 +5,14 @@ The format is inspired by: [Keep a Changelog](https://keepachangelog.com/)
 
 The versioning is *unique* to this project and does **NOT** follow [Semantic Versioning](https://semver.org/).
 
+## 2024.0.1 - 09/JAN
+
+### Added
+
+- Added a gitignore file
+
+
+
 ## 2023.0.3 - 05/MAY
 
 ### Changed
